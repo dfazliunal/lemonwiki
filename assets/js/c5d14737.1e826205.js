@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklemonwiki=self.webpackChunklemonwiki||[]).push([[8309],{8597:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/lemonwiki/blog/tags/docusaurus","allTagsPath":"/lemonwiki/blog/tags","count":4}')}}]);

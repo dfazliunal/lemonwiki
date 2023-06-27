@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklemonwiki=self.webpackChunklemonwiki||[]).push([[5905],{5878:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/lemonwiki/blog/tags/hola","allTagsPath":"/lemonwiki/blog/tags","count":1}')}}]);
